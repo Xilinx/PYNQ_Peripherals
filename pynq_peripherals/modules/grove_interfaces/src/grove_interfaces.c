@@ -78,7 +78,7 @@ unsigned char analog_pins[][2] = {
 };
 #ifdef PYNQ_HAS_I2C
 i2c i2c_open_grove(int grove_id) {
-	if (grove_id == ARDUINO_SEEED_I2C) {
+	if (grove_id == ARDUINO_SEEED_I2C || grove_id == ARDUINO_DIGILENT_I2C) {
 		return i2c_open_device(0);
 #ifdef XPAR_IO_SWITCH_NUM_INSTANCES
 #ifdef XPAR_IO_SWITCH_0_I2C0_BASEADDR
