@@ -55,7 +55,7 @@ setup(
     author = "PYNQ Team",
     author_email = "pynq_support@xilinx.com",
     include_package_data = True,
-    install_requires = ['pynq', 'simple_term_menu'],
+    install_requires = ['pynq>=2.6.2', 'simple_term_menu'],
     entry_points = {
         'pynq.lib': ['pynq_peripherals = pynq_peripherals'],
         'pynq.notebooks': ['pynq_peripherals = pynq_peripherals.notebooks'],
