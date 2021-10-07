@@ -4,7 +4,11 @@ This repository contains drivers for Arduino, PMOD, Grove and Raspberry PI
 peripherals connected to an IOP. Each peripheral driver comes with Jupyter
 notebooks which show how to use it. 
 
-A full list of all notebooks in this repository is given below:
+<p align="center">
+  <img src="https://github.com/npurusho/PYNQ_peripherals-1/blob/main/pynq_peripherals/apps/app1_room_control_system/notebooks/images/room_control.png" height=500px>
+</p>
+
+All notebooks in this repository are listed below:
 
 __Grove__
 
