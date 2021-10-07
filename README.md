@@ -27,8 +27,10 @@ __Arduino__
 
 To install the notebooks run
 
-```sh
+```console
 sudo pip install git+https://github.com/Xilinx/PYNQ_peripherals.git
+```
+```console
 sudo pynq get-notebooks pynq_peripherals -p $PYNQ_JUPYTER_NOTEBOOKS
 ```
 
