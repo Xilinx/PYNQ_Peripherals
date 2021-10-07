@@ -1,6 +1,8 @@
 # PYNQ Hackathon Peripheral Modules
+![python](https://github.com/Xilinx/PYNQ/workflows/Python/badge.svg)
+
 ---
-This repository contains drivers for Arduino, PMOD, Grove and Raspberry PI peripherals connected to the recommended [PYNQ-Z2](http://www.pynq.io/board.html) board. Each peripheral driver comes with Jupyter notebooks which show how to use it. Application notebooks can be developed in pure Python using the Python API for provided each driver.
+This repository contains drivers for Arduino, PMOD, Grove and Raspberry PI peripherals connected to the recommended [**PYNQ-Z2**](http://www.pynq.io/board.html) board. Each peripheral driver comes with Jupyter notebooks which show how to use it. Application notebooks can be developed in pure Python using the Python API provided for each driver.
 It also contains command line interface tool to generate peripheral driver templates for new peripehrals. Peripheral drivers are developed in Standard C
 
 <p align="center">
@@ -14,14 +16,12 @@ __Grove__
 | Name | Link to notebook |  Link to Purchase |
 |:----------:|:------------------:|:------------------:|
 | Grove I2C ADC | [Notebook](https://github.com/Xilinx/PYNQ_peripherals/blob/main/pynq_peripherals/modules/grove_adc/notebooks/grove_adc.ipynb) | [Buy](https://www.seeedstudio.com/Grove-I2C-ADC.html) |
-| Grove I2C IMU | [Click Here](https://github.com/npurusho/PYNQ_peripherals-1/blob/main/pynq_peripherals/modules/grove_imu/notebooks/grove_imu.ipynb) | [Buy](https://www.seeedstudio.com/Grove-IMU-10DOF-v2-0.html) |
 
 __Arduino__
 
 | Name | Link to notebook |  Link to Purchase |
 |:----------:|:------------------:|:------------------:|
- Grove I2C ADC | [Notebook](https://github.com/Xilinx/PYNQ_peripherals/blob/main/pynq_peripherals/modules/grove_adc/notebooks/grove_adc.ipynb) | [Buy](https://www.seeedstudio.com/Grove-I2C-ADC.html) |
-| Grove I2C IMU | [Click Here](https://github.com/npurusho/PYNQ_peripherals-1/blob/main/pynq_peripherals/modules/grove_imu/notebooks/grove_imu.ipynb) | [Buy](https://www.seeedstudio.com/Grove-IMU-10DOF-v2-0.html) |
+| Grove I2C ADC | [Notebook](https://github.com/Xilinx/PYNQ_peripherals/blob/main/pynq_peripherals/modules/grove_adc/notebooks/grove_adc.ipynb) | [Buy](https://www.seeedstudio.com/Grove-I2C-ADC.html) |
 
 ## Installation
 
@@ -38,12 +38,12 @@ in your jupyter-notebooks folder.
 
 | Name | Link to notebook |  Link to Purchase |
 |:----------:|:------------------:|:------------------:|
-| Grove I2C IMU | [Click Here](https://github.com/npurusho/PYNQ_peripherals-1/blob/main/pynq_peripherals/modules/grove_imu/notebooks/grove_imu.ipynb) | [Buy](https://www.seeedstudio.com/Grove-IMU-10DOF-v2-0.html) |
+|Grove I2C ADC | [Notebook](https://github.com/Xilinx/PYNQ_peripherals/blob/main/pynq_peripherals/modules/grove_adc/notebooks/grove_adc.ipynb) | [Buy](https://www.seeedstudio.com/Grove-I2C-ADC.html) |
 
 
 ## Contributing
 
-Contributions to this repository are welcomed. Please refer to [CONTRIBUTING.md](https://github.com/Xilinx/PYNQ/blob/master/CONTRIBUTING.md) for details on how to contribute new peripheral
+Contributions to this repository are welcomed. Please refer to [CONTRIBUTING.md](https://github.com/Xilinx/PYNQ_peripherals/blob/main/CONTRIBUTING.md) for details on how to contribute new peripheral
 drivers.
 
 ## License
