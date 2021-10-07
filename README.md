@@ -10,7 +10,7 @@ It also contains command line interface tool to generate peripheral driver templ
 
 All notebooks in this repository are listed below:
 
-__Grove__
+__Grove Modules__
 
 | Name | Link to notebook |  Link to module |
 |:----------:|:------------------:|:------------------:|
@@ -34,7 +34,7 @@ __Grove__
 | Grove Ultrasonic Ranger | [Notebook](https://github.com/Xilinx/PYNQ_peripherals/blob/main/pynq_peripherals/modules/grove_usranger/notebooks/grove_usranger.ipynb) | [Click Here](https://www.seeedstudio.com/Grove-Ultrasonic-Distance-Sensor.html) |
 | Grove Water_sensor | [Notebook](https://github.com/Xilinx/PYNQ_peripherals/blob/main/pynq_peripherals/modules/grove_water_sensor/notebooks/grove_water_sensor.ipynb) | [Click Here](https://www.seeedstudio.com/Grove-Water-Sensor.html) |
 
-__Non-Grove__
+__Non-Grove Modules__
 
 | Name | Link to notebook |  Link to module |
 |:----------:|:------------------:|:------------------:|
