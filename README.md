@@ -5,7 +5,7 @@ peripherals connected to recommended [PYNQ-Z2](http://www.pynq.io/board.html) bo
 notebooks which show how to use it. 
 
 <p align="center">
-  <img src="./images/pynq_hackathon_hw.png" height=500px>
+  <img src="./images/pynq_hackathon_hw.png">
 </p>
 
 All notebooks in this repository are listed below:
