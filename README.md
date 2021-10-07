@@ -14,12 +14,14 @@ __Grove__
 
 | Name | Link to notebook |  Link to Purchase |
 |:----------:|:------------------:|:------------------:|
+| Grove I2C ADC | [Notebook](https://github.com/Xilinx/PYNQ_peripherals/blob/main/pynq_peripherals/modules/grove_adc/notebooks/grove_adc.ipynb) | [Buy](https://www.seeedstudio.com/Grove-I2C-ADC.html) |
 | Grove I2C IMU | [Click Here](https://github.com/npurusho/PYNQ_peripherals-1/blob/main/pynq_peripherals/modules/grove_imu/notebooks/grove_imu.ipynb) | [Buy](https://www.seeedstudio.com/Grove-IMU-10DOF-v2-0.html) |
 
 __Arduino__
 
 | Name | Link to notebook |  Link to Purchase |
 |:----------:|:------------------:|:------------------:|
+ Grove I2C ADC | [Notebook](https://github.com/Xilinx/PYNQ_peripherals/blob/main/pynq_peripherals/modules/grove_adc/notebooks/grove_adc.ipynb) | [Buy](https://www.seeedstudio.com/Grove-I2C-ADC.html) |
 | Grove I2C IMU | [Click Here](https://github.com/npurusho/PYNQ_peripherals-1/blob/main/pynq_peripherals/modules/grove_imu/notebooks/grove_imu.ipynb) | [Buy](https://www.seeedstudio.com/Grove-IMU-10DOF-v2-0.html) |
 
 ## Installation
