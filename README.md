@@ -1,4 +1,4 @@
-# PYNQ Hackathon Peripherals Repository
+# PYNQ Hackathon Peripheral Modules
 
 This repository contains drivers for Arduino, PMOD, Grove and Raspberry PI
 peripherals connected to an IOP. Each peripheral driver comes with Jupyter
