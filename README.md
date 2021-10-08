@@ -54,7 +54,7 @@ sudo pynq get-notebooks pynq_peripherals -p $PYNQ_JUPYTER_NOTEBOOKS
 
 in your jupyter-notebooks folder.
 
-## Example Hacks
+## Example Projects
 
 | Name | Link to notebook |
 |:----------:|:------------------:|
