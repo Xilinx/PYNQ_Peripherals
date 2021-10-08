@@ -1,8 +1,8 @@
 # PYNQ Hackathon Peripheral Modules
 ![python](https://github.com/Xilinx/PYNQ/workflows/Python/badge.svg)
 
-This repository contains drivers for Arduino, PMOD, Grove and Raspberry Pi peripherals supported on the recommended [**PYNQ-Z2**](http://www.pynq.io/board.html) board. Each peripheral driver comes with Jupyter notebooks which show how to use it. Application notebooks can be developed in solely in Python using the Python API provided for each driver.
-It also contains command line interface tool to generate peripheral driver templates for new peripherals. Peripheral drivers are developed in Standard C
+This repository contains drivers for Arduino, PMOD, Grove and Raspberry Pi peripherals supported on the recommended [**PYNQ-Z2**](http://www.pynq.io/board.html) board. Each peripheral driver comes with Jupyter notebooks which show how to use it. Application notebooks can be developed solely in Python using the Python API provided for each driver.
+It also contains a command line interface tool to generate peripheral driver templates for new peripherals. Peripheral drivers are developed in Standard C
 
 <p align="center">
   <img src="./images/pynq_hackathon_hw.png">
