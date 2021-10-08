@@ -5,7 +5,7 @@ peripherals connected to an IOP. Each peripheral driver comes with Jupyter
 notebooks which show how to use it. To install the notebooks run
 
 ```sh
-sudo pip install git+https://github.com/Xilinx/PYNQ_peripherals.git
+sudo pip install git+https://github.com/Xilinx/PYNQ_Peripherals.git
 sudo pynq get-notebooks pynq_peripherals -p $PYNQ_JUPYTER_NOTEBOOKS
 ```
 
