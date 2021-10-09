@@ -65,5 +65,5 @@ setup(
     cmdclass = {
         'build_py': build_py
     },
-    description = "Driver packages for PYNQ peripherals"
+    description = "Driver packages for PYNQ Peripherals"
 )
